@@ -134,8 +134,8 @@ def ClockIn():
 
             data2 = { #上学期间版本
                 "BackState": 1,
-                "MorningTemp": "36.5",
-                "NightTemp": "36.5",
+                "MorningTemp": "36.6",
+                "NightTemp": "36.3",
                 "RealAddress": RealAddress,
                 "RealCity": RealCity,
                 "RealCounty": RealCounty,
